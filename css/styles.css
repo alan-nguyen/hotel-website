@@ -35,6 +35,11 @@ p {
 .text-primary {
   color: #f7c08a;
 }
+
+.lead {
+  font-size: 20px;
+}
+
 /* Nav bar */
 #navbar {
   background: #333;
