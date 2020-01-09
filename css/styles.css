@@ -24,7 +24,7 @@ p {
   margin: 10px 0;
 }
 
-/* Ultility Classes*/
+/* Utility Classes*/
 .container {
   margin: auto;
   max-width: 1100px;
@@ -32,6 +32,9 @@ p {
   padding: 0 20px;
 }
 
+.text-primary {
+  color: #f7c08a;
+}
 /* Nav bar */
 #navbar {
   background: #333;
@@ -68,3 +71,21 @@ p {
   background: #444;
   color: #f7c08a;
 }
+
+/* Showcase */
+#showcase {
+  background: url('../img/showcase.jpg') no-repeat center center/cover;
+  height: 600px;
+}
+
+#showcase .showcase-content {
+  color: #fff;
+  text-align: center;
+  padding-top: 170px;
+}
+
+#showcase .showcase-content h1 {
+  font-size: 60px;
+  line-height: 1.2em;
+}
+
