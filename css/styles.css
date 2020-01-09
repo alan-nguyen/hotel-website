@@ -24,6 +24,14 @@ p {
   margin: 10px 0;
 }
 
+/* Ultility Classes*/
+.container {
+  margin: auto;
+  max-width: 1100px;
+  overflow: auto;
+  padding: 0 20px;
+}
+
 /* Nav bar */
 #navbar {
   background: #333;
